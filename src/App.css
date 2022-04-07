@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.list{
+  list-style-type: square;
+}
+.cir{
+  list-style-type: circle;
+}
 
 .App-link {
   color: #61dafb;
